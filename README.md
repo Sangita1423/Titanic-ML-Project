@@ -38,3 +38,5 @@ The test set should be used to see how well your model performs on unseen data. 
 ![image](https://user-images.githubusercontent.com/88077075/165927329-9925f841-51f1-4de7-9827-f3b64d443f2d.png)
 
 
+finally get the accuracy in the form of 0 1nd 1 ant the score.
+
